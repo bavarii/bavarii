@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bavari IK</h1>
 <h3 align="center">Together to make internet safe and clean</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:bavari.ccusa@gmail.com</h3>
+
 <p align="left">
 </p>
 
