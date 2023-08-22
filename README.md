@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .red-heart {
+    fill: red;
+    vertical-align: middle;
+  }
+</style>
+</head>
+<body>
+
 <h1 align="center">Hi 👋, I'm Bavari IK</h1>
 <h3 align="center">Together to make the internet safe and clean</h3>
 
@@ -20,3 +32,6 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/bavari">
   <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/bavari" />
 </a></p><br><br>
+
+</body>
+</html>
